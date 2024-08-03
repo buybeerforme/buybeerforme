@@ -1,16 +1,18 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on buybeerfor.me
+- 🌱 I’m currently learning how to make more to drink beer
+- 👯 I’m looking to collaborate on something that could buy beer for me
+- 💬 Ask me about how to drink appropriately
+
+### Buy a beer if that help or make you happy!
+
+[🍺 Buy a beer for me](buybeerfor.me/buybeerforme)
+
 <!--
-**buybeerforme/buybeerforme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Download extension, so the link turn into a donate card.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
