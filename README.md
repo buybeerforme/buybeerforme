@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on something that could buy beer for me
 - 💬 Ask me about how to drink appropriately
 
-### Buy a beer if that make you happy!
+### Buy a beer if that makes you happy!
 
 [🍺 Buy a beer for me](//buybeerfor.me/buybeerforme)
 
