@@ -8,11 +8,3 @@
 ### Buy a beer if that makes you happy!
 
 [🍺 Buy a beer for me](//buybeerfor.me/buybeerforme)
-
-<!--
-Download extension, so the link turn into a donate card.
-
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
